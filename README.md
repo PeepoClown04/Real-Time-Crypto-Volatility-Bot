@@ -1,4 +1,4 @@
-# Real-Time Crypto Volatility Bot
+# Real-Time Crypto Volatility Bot ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Bot de monitoreo financiero que interactúa con APIs públicas para rastrear activos en tiempo real y emitir alertas instantáneas basadas en condiciones de volatilidad o precio.
 
